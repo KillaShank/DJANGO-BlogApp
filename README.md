@@ -1,8 +1,8 @@
-# DJANGO-BlogApp
-A simple Blog application made using DJANGO.
+# Django-BlogApp
+A simple Blog application made using Django.
 Clone This Project (Make Sure You Have Git Installed)
 ```
-https://github.com/KillaShank/DJANGO-BlogApp.git'
+https://github.com/KillaShank/DJANGO-BlogApp.git
 ```
 Install Dependencies 
 
@@ -23,3 +23,5 @@ python manage.py createsuperuser
 After all these steps , you can start testing and developing this project. 
 
 #### That's it!
+
+#### REFERNCE TAKEN FROM "https://tutorial.djangogirls.org/en/"
